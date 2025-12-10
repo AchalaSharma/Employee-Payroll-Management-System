@@ -21,5 +21,5 @@ A Flask-based web application for managing employee records and payroll processi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/employee-payroll-management-system.git
+   git clone https://github.com/AchalaSharma/employee-payroll-management-system.git
 
