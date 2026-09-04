@@ -1,25 +1,11 @@
-# Employee Payroll Management System
+1. Create virtualenv:
+   python -m venv venv
+   venv\Scripts\activate
 
-A Flask-based web application for managing employee records and payroll processing using SQLite.
+2. Install:
+   pip install -r requirements.txt
 
-## Features
-- Employee CRUD operations
-- Payroll management
-- Audit logging using SQLite triggers
-- Dashboard with payroll statistics
-- Download payroll report as CSV
-- CSRF-protected forms
+3. Run:
+   python app.py
 
-## Technologies Used
-- Python
-- Flask
-- SQLite
-- SQLAlchemy ORM
-- HTML, CSS, Jinja2
-
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AchalaSharma/employee-payroll-management-system.git
-
+4. Open: http://127.0.0.1:5000
